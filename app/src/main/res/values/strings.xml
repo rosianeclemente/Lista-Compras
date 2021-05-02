@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lista</string>
+    <string name="inserir">Inserir</string>
+    <string name="inserir_itens">Inserir Itens</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="cadastrar_produtos">Cadastrar Produtos</string>
+    <string name="cadastrar_produto">Cadastrar Produto</string>
+    <string name="nome_produto">Nome do produto</string>
+    <string name="qtdade">Qtdade</string>
+    <string name="r">R$</string>
+    <string name="reais">R$</string>
+    <string name="qtd">Qtd.:</string>
+</resources>
